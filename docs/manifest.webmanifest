@@ -1,0 +1,12 @@
+{
+  "name": "Jam Lab — 鼓手的虚拟乐队",
+  "short_name": "Jam Lab",
+  "description": "输入鼓节奏、风格与情绪，生成约三分钟可练习的乐队编曲。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e100f",
+  "theme_color": "#0e100f",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
